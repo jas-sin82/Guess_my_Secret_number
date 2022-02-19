@@ -10,7 +10,7 @@ In this project I have used HTML for structure, css for style to make Game more 
 
 ### This Project/Game Call a Guess My Secret Number. Its a single Player Game !
 
-### Short Description About Functionality [ To Test Play](https://jas-sin82.github.io/Guess_my_Secret_number/)
+### Short Description About Game && Functionality  [ To Test Play](https://jas-sin82.github.io/Guess_my_Secret_number/)
  
  * Guess a number between 1 to 30 !<br>
  * Every wrong guess ! score will reduce, by one point!<br>
